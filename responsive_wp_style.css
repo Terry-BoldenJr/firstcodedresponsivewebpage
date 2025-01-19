@@ -2,9 +2,9 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 50px 50px 0 50px;
   background-color: #faf9f6;
-  display:block;
-  flex-direction: column;
-  min-height: 95vh;
+  display: inline-block;
+  flex-direction: row;
+  min-height: 45vh;
 }
 
 .main {
@@ -55,7 +55,7 @@ footer {
   }
 
   .card {
-    width: 100%;
+    width: 30%;
     display: inline-block;
     margin-bottom: 30px;
     text-align: justify;
@@ -63,7 +63,7 @@ footer {
 
   .card img {
     margin-bottom: 50px;
-    width: 100%;
+    width: 30%;
     display: block;
     object-fit: cover;
   }
