@@ -20,8 +20,9 @@ footer {
   color: midnightblue;
 }
 
-.tile-image {
-  height: 200px;
+.title-image {
+  height: 50px;
+  width: 50px;
   float: left;
   margin-right: 50px;
 }
