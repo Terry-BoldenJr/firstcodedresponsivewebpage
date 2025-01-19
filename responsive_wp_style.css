@@ -3,8 +3,8 @@ body {
   margin: 50px 50px 0 50px;
   background-color: #faf9f6;
   display: inline-block;
-  flex-direction: row;
-  min-height: 45vh;
+  flex-direction: column;
+  min-height: 25vh;
 }
 
 .main {
