@@ -31,12 +31,12 @@ footer {
   width: 20%;
 }
 
-.left {
+.left-card {
   float: left;
   display:flow-root;
 }
 
-.right {
+.right-card {
   float: left;
   display:flow-root;
 }
