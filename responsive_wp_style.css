@@ -28,17 +28,18 @@ footer {
 }
 
 .card {
+  display:inline-block;
   width: 20%;
 }
 
 .left-card {
   float: left;
-  display:flow-root;
+  display:inline-block;
 }
 
 .right-card {
   float: left;
-  display:flow-root;
+  display:inline-block;
 }
 
 .creative {
