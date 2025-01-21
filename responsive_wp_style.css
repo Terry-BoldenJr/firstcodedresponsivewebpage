@@ -38,6 +38,8 @@ footer {
 }
 
 .right-card {
+  height: 200px;
+  width: 200px;
   float: left;
   display:inline-block;
   Flexwrap:wrap;
