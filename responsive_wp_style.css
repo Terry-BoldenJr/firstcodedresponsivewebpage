@@ -21,25 +21,25 @@ footer {
 }
 
 .title-image {
-  height: 200px;
-  width: 200px;
+  height: 5rem;
+  width: 5rem;
   float: left;
   margin-right: 50px;
 }
 
 .card {
-  display:inline-block;
+  display:inline-flex;
   width: 20%;
 }
 
 .left-card {
   float: left;
-  display:inline-block;
+  display:inline-flex;
 }
 
 .right-card {
   float: left;
-  display:inline-block;
+  display:inline-flex;
 }
 
 .creative {
