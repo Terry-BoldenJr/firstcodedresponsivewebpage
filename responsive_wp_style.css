@@ -40,6 +40,7 @@ footer {
 .right-card {
   float: left;
   display:inline-block;
+  Flexwrap:wrap;
 }
 
 .creative {
