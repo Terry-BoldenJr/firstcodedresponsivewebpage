@@ -28,18 +28,18 @@ footer {
 }
 
 .card {
-  display:inline-flex;
+  display:inline-block;
   width: 20%;
 }
 
 .left-card {
   float: left;
-  display:inline-flex;
+  display:inline-block;
 }
 
 .right-card {
   float: left;
-  display:inline-flex;
+  display:inline-block;
 }
 
 .creative {
@@ -57,7 +57,7 @@ footer {
   }
 
   .card {
-    width: 30%;
+    width: 50%;
     display: inline-block;
     margin-bottom: 30px;
     text-align: justify;
@@ -65,7 +65,7 @@ footer {
 
   .card img {
     margin-bottom: 50px;
-    width: 30%;
+    width: 50%;
     display: block;
     object-fit: cover;
   }
