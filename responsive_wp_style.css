@@ -69,7 +69,7 @@ footer {
   .card img {
     margin-bottom: 50px;
     width: 50%;
-    display: block;
+    display: inline-block;
     object-fit: cover;
   }
 }
